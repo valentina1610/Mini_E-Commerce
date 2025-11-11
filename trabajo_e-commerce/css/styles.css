@@ -1,0 +1,79 @@
+/*Estilo general */
+body {
+  background-color: #fff0f6; 
+  font-family: 'Poppins', sans-serif;
+  color: #4a4a4a;
+}
+
+/* Títulos */
+h1, h4 {
+  color: #d63384; 
+  font-weight: 600;
+}
+
+/*Tarjetas (cards) */
+.card {
+  border: none;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(214, 51, 132, 0.1);
+}
+
+/*Botón principal */
+.btn-primary {
+  background-color: #d63384;
+  border-color: #d63384;
+  transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #c21872;
+  border-color: #c21872;
+  transform: scale(1.03);
+}
+
+/*Inputs y selects */
+.form-control, .form-select {
+  border-radius: 10px;
+  border: 1px solid #f3c2d8;
+}
+
+.form-control:focus, .form-select:focus {
+  border-color: #d63384;
+  box-shadow: 0 0 0 0.2rem rgba(214, 51, 132, 0.25);
+}
+
+/*Tabla */
+.table {
+  background-color: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table thead {
+  background-color: #f8d7e7; 
+  color: #d63384;
+  font-weight: 600;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+  background-color: #fff5fa;
+}
+
+/*Sección de estadísticas */
+.card-body h4 {
+  border-bottom: 2px solid #f3c2d8;
+  padding-bottom: 6px;
+  margin-bottom: 15px;
+}
+
+/*Sombra suave en los contenedores */
+.shadow-sm {
+  box-shadow: 0 4px 8px rgba(214, 51, 132, 0.1) !important;
+}
+
+/*Efecto sutil al pasar sobre filas */
+.table tbody tr:hover {
+  background-color: #fde6f1;
+  transition: background-color 0.2s ease;
+}
