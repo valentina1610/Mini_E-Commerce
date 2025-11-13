@@ -3,8 +3,10 @@
 - Valentina Olmos
 - Yamila Sanchez
 
-## Materia: Estadística y Probabilidades
-## Profesor: Diego Mendoza
+## Materia:
+Estadística y Probabilidades
+## Profesor:
+Diego Mendoza
 
 # 🚀 Ejecución
 1. Clonar el repositorio:
