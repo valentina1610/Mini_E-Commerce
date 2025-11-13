@@ -9,7 +9,7 @@
 # 🚀 Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/valentina1610/Proyecto-Ong-Adopciones.git
+   git clone https://github.com/valentina1610/Mini_E-Commerce.git
 
 # Introducción
 
