@@ -60,7 +60,7 @@ function agruparPorProducto(ventas) {
     const obj = {};
 
     ventas.forEach(v => {
-        const nombre = v.Producto || "Sin nombre";
+        const nombre = v.producto || "Sin nombre";
         obj[nombre] = (obj[nombre] || 0) + Number(v.total);
     });
 

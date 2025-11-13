@@ -34,8 +34,8 @@ function mostrarVentas(ventas) {
         fila.innerHTML = `
             <td>${venta.id || 'N/A'}</td>
             <td>${venta.fecha}</td>
-            <td>${venta.Cliente}</td>
-            <td>${venta.Producto}</td>
+            <td>${venta.cliente}</td>
+            <td>${venta.producto}</td>
             <td>${venta.cantidad}</td>
             <td>$${Number(venta.precioUnitario).toFixed(2)}</td>
             <td>$${Number(venta.total).toFixed(2)}</td>
@@ -90,8 +90,8 @@ form.addEventListener("submit", async (e) => {
 
     const nuevaVenta = {
         fecha,
-        Cliente: cliente, 
-        Producto: producto, 
+        cliente: cliente, 
+        producto: producto, 
         cantidad,
         precioUnitario,
         metodoPago,
