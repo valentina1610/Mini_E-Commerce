@@ -31,7 +31,7 @@
 
 - Correlación entre precio y cantidad vendida.
 
-# Se generaron gráficos que facilitan la interpretación de tendencias y relaciones entre variables:
+## Se generaron gráficos que facilitan la interpretación de tendencias y relaciones entre variables:
 
 - Barras: ventas por precio por producto.
 
