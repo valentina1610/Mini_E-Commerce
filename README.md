@@ -13,9 +13,9 @@
 
 ## Introducción
 
-# Este proyecto tiene como propósito integrar herramientas de análisis de datos con el desarrollo de una aplicación web interactiva (hecha con JavaScript, HTML y CSS), que permite registrar y analizar información de ventas mediante una API que simula una base de datos.
+ Este proyecto tiene como propósito integrar herramientas de análisis de datos con el desarrollo de una aplicación web interactiva (hecha con JavaScript, HTML y CSS), que permite registrar y analizar información de ventas mediante una API que simula una base de datos.
 
-- La interfaz creada permite:
+# La interfaz creada permite:
 
 - Cargar ventas manualmente.
 
