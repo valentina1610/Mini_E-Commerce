@@ -1,21 +1,21 @@
-## Análisis Estadístico Aplicado a un E-Commerce
-# Integrantes
+# Análisis Estadístico Aplicado a un E-Commerce
+## Integrantes
 - Valentina Olmos
 - Yamila Sanchez
 
-# Materia: Estadística y Probabilidades
-# Profesor: Diego Mendoza
+## Materia: Estadística y Probabilidades
+## Profesor: Diego Mendoza
 
-## 🚀 Ejecución
+# 🚀 Ejecución
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/valentina1610/Proyecto-Ong-Adopciones.git
 
-## Introducción
+# Introducción
 
  Este proyecto tiene como propósito integrar herramientas de análisis de datos con el desarrollo de una aplicación web interactiva (hecha con JavaScript, HTML y CSS), que permite registrar y analizar información de ventas mediante una API que simula una base de datos.
 
-# La interfaz creada permite:
+## La interfaz creada permite:
 
 - Cargar ventas manualmente.
 
@@ -23,7 +23,7 @@
 
 - Analizar indicadores clave y gráficos dinámicos de ventas en un dashboard.
 
-# A partir de los datos obtenidos, se realizaron cálculos estadísticos como:
+## A partir de los datos obtenidos, se realizaron cálculos estadísticos como:
 
 - Promedio de ventas por día.
 
