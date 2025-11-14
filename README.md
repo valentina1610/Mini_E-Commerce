@@ -8,7 +8,7 @@ Estadística y Probabilidades
 ## Profesor:
 Diego Mendoza
 
-##Link de la api
+## Link de la api
 https://6904ddaf6b8dabde49656b9b.mockapi.io/ventas
 
 # 🚀 Ejecución
