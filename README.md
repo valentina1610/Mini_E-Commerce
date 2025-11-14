@@ -3,9 +3,10 @@
 - Valentina Olmos
 - Yamila Sanchez
 
-## Materia:
+## Materia
 Estadística y Probabilidades
-## Profesor:
+
+## Profesor
 Diego Mendoza
 
 ## Link de la api
